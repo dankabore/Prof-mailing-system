@@ -1,4 +1,8 @@
-
+"""
+For this project, you first need in order to use the openpyxl module to install it. How do you do that, first go to your idle terminator whether it is Pycharm or cmd or whatever that is,
+go there and type the following commande: pip install openpyxl
+This should download the module and install it into your idle. Then you are ready to start. Good luck!!
+"""
 import openpyxl as xl
 import smtplib
 
