@@ -2,6 +2,8 @@
 For this project, you first need in order to use the openpyxl module to install it. How do you do that, first go to your idle terminator whether it is Pycharm or cmd or whatever that is,
 go there and type the following commande: pip install openpyxl
 This should download the module and install it into your idle. Then you are ready to start. Good luck!!
+NB: You can download and edit the exel document below according to your needs. If you change the name of the file or wish to change it, after doing so, you need to also change the name
+of the file in the line 11 of the code ('Students_grades.xlsx') to the name of your file
 """
 import openpyxl as xl
 import smtplib
